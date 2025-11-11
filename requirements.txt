@@ -1,0 +1,9 @@
+notebook
+torch
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+tiktoken
